@@ -2,13 +2,13 @@
   "candidates": [
     {
       "name": "宋楚瑜",
-      "votes": 0
+      "votes": 1576861
     },{
       "name": "韓國瑜",
-      "votes": 0
+      "votes": 3813365
     },{
       "name": "蔡英文",
-      "votes": 0
+      "votes": 6894744
     }
   ],
   "legislators": [
@@ -22,11 +22,11 @@
           "name": "孫大千",
           "party": "國民黨"
         },{
-          "name": "",
-          "party": ""
+          "name": "何景榮",
+          "party": "台灣民眾黨"
         },{
-          "name": "",
-          "party": ""
+          "name": "蕭蒼澤",
+          "party": "喜樂島聯盟"
         },{
           "name": "",
           "party": ""
@@ -51,11 +51,11 @@
           "name": "林淑芬",
           "party": "民進黨"
         },{
-          "name": "",
-          "party": ""
+          "name": "林宜瑄",
+          "party": "綠黨"
         },{
-          "name": "",
-          "party": ""
+          "name": "陳俊憲",
+          "party": "安定力量"
         },{
           "name": "",
           "party": ""
@@ -86,8 +86,8 @@
       "country": "基隆市",
       "elected": [
         {
-          "name": "",
-          "party": ""
+          "name": "楊石城",
+          "party": "國會政黨聯盟"
         }
       ]
     },{
@@ -136,8 +136,8 @@
       "country": "新竹市",
       "elected": [
         {
-          "name": "",
-          "party": ""
+          "name": "高鈺婷",
+          "party": "時代力量"
         }
       ]
     },{
@@ -158,8 +158,8 @@
           "name": "",
           "party": ""
         },{
-          "name": "",
-          "party": ""
+          "name": "陳柏惟",
+          "party": "台灣基進"
         },{
           "name": "",
           "party": ""
