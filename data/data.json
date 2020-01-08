@@ -1,0 +1,508 @@
+{
+  "candidates": [
+    {
+      "name": "宋楚瑜",
+      "votes": 0
+    },{
+      "name": "韓國瑜",
+      "votes": 0
+    },{
+      "name": "蔡英文",
+      "votes": 0
+    }
+  ],
+  "legislators": [
+    {
+      "country": "台北市",
+      "elected": [
+        {
+          "name": "吳思瑤",
+          "party": "民進黨"
+        },{
+          "name": "孫大千",
+          "party": "國民黨"
+        },{
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        }
+      ]
+    },{
+      "country": "新北市",
+      "elected": [
+        {
+          "name": "洪孟楷",
+          "party": "國民黨"
+        },{
+          "name": "林淑芬",
+          "party": "民進黨"
+        },{
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        }
+      ]
+    },{
+      "country": "基隆市",
+      "elected": [
+        {
+          "name": "",
+          "party": ""
+        }
+      ]
+    },{
+      "country": "宜蘭縣",
+      "elected": [
+        {
+          "name": "",
+          "party": ""
+        }
+      ]
+    },{
+      "country": "桃園市",
+      "elected": [
+        {
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        }
+      ]
+    },{
+      "country": "新竹縣",
+      "elected": [
+        {
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        }
+      ]
+    },{
+      "country": "新竹市",
+      "elected": [
+        {
+          "name": "",
+          "party": ""
+        }
+      ]
+    },{
+      "country": "苗栗縣",
+      "elected": [
+        {
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        }
+      ]
+    },{
+      "country": "台中市",
+      "elected": [
+        {
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        }
+      ]
+    },{
+      "country": "南投縣",
+      "elected": [
+        {
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        }
+      ]
+    },{
+      "country": "彰化縣",
+      "elected": [
+        {
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        }
+      ]
+    },{
+      "country": "雲林縣",
+      "elected": [
+        {
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        }
+      ]
+    },{
+      "country": "嘉義縣",
+      "elected": [
+        {
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        }
+      ]
+    },{
+      "country": "嘉義市",
+      "elected": [
+        {
+          "name": "",
+          "party": ""
+        }
+      ]
+    },{
+      "country": "台南市",
+      "elected": [
+        {
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        }
+      ]
+    },{
+      "country": "高雄市",
+      "elected": [
+        {
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        }
+      ]
+    },{
+      "country": "屏東縣",
+      "elected": [
+        {
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        }
+      ]
+    },{
+      "country": "澎湖縣",
+      "elected": [
+        {
+          "name": "",
+          "party": ""
+        }
+      ]
+    },{
+      "country": "花蓮縣",
+      "elected": [
+        {
+          "name": "",
+          "party": ""
+        }
+      ]
+    },{
+      "country": "台東縣",
+      "elected": [
+        {
+          "name": "",
+          "party": ""
+        }
+      ]
+    },{
+      "country": "金門縣",
+      "elected": [
+        {
+          "name": "",
+          "party": ""
+        }
+      ]
+    },{
+      "country": "連江縣",
+      "elected": [
+        {
+          "name": "",
+          "party": ""
+        }
+      ]
+    },{
+      "country": "山地原住民",
+      "elected": [
+        {
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        }
+      ]
+    },{
+      "country": "平地原住民",
+      "elected": [
+        {
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        }
+      ]
+    },{
+      "country": "不分區",
+      "elected": [
+        {
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        }
+      ]
+    }
+  ],
+  "readmore": [
+    {
+      "type": "project",
+      "slug": "20191209-taiwan-2020-election",
+      "title": "互動頁面：2020台灣大選．亡國感的戰爭"
+    },{
+      "type": "article",
+      "slug": "20191205-taiwan-election-keywords",
+      "title": "台灣大選的十個關鍵字（上）宮廟、農會、地下電台、賄選、地下賭盤"
+    },{
+      "type": "article",
+      "slug": "20191206-taiwan-election-keywords",
+      "title": "台灣大選的十個關鍵字（下）紅白帖、拜票、選舉宣傳品、假牙、交通建設"
+    },{
+      "type": "article",
+      "slug": "20191221-taiwan-farmers-association-election",
+      "title": "大選的隱形前哨戰：如何打贏一場農會選舉？"
+    },{
+      "type": "article",
+      "slug": "20200102-taiwan-temple-election",
+      "title": "神明不投票：「宮廟影響選舉」的可能與不可能"
+    },{
+      "type": "article",
+      "slug": "20191231-taiwan-han-2018data",
+      "title": "數據解讀韓國瑜支持者：不老不窮，理性而放空"
+    }
+  ]
+}
