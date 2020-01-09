@@ -2,13 +2,13 @@
   "candidates": [
     {
       "name": "宋楚瑜",
-      "votes": 61205
+      "votes": 0
     },{
       "name": "韓國瑜",
-      "votes": 2930123
+      "votes": 0
     },{
       "name": "蔡英文",
-      "votes": 3034512
+      "votes": 0
     }
   ],
   "legislators": [
@@ -31,14 +31,14 @@
           "name": "",
           "party": ""
         },{
-          "name": "林奕華",
-          "party": "國民黨"
+          "name": "",
+          "party": ""
         },{
           "name": "",
           "party": ""
         },{
-          "name": "賴士葆",
-          "party": "國民黨"
+          "name": "",
+          "party": ""
         }
       ]
     },{
@@ -48,17 +48,8 @@
           "name": "",
           "party": ""
         },{
-          "name": "林淑芬",
-          "party": "民進黨"
-        },{
           "name": "",
           "party": ""
-        },{
-          "name": "",
-          "party": ""
-        },{
-          "name": "蘇巧慧",
-          "party": "民進黨"
         },{
           "name": "",
           "party": ""
@@ -75,8 +66,17 @@
           "name": "",
           "party": ""
         },{
-          "name": "羅明才",
-          "party": "國民黨"
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
         },{
           "name": "",
           "party": ""
@@ -105,8 +105,8 @@
           "name": "",
           "party": ""
         },{
-          "name": "吳志揚",
-          "party": "國民黨"
+          "name": "",
+          "party": ""
         },{
           "name": "",
           "party": ""
@@ -158,9 +158,6 @@
           "name": "",
           "party": ""
         },{
-          "name": "顏寬恒",
-          "party": "國民黨"
-        },{
           "name": "",
           "party": ""
         },{
@@ -176,8 +173,11 @@
           "name": "",
           "party": ""
         },{
-          "name": "江啟臣",
-          "party": "國民黨"
+          "name": "",
+          "party": ""
+        },{
+          "name": "",
+          "party": ""
         }
       ]
     },{
@@ -223,11 +223,11 @@
       "country": "嘉義縣",
       "elected": [
         {
-          "name": "王啟澧",
-          "party": "國民黨"
+          "name": "",
+          "party": ""
         },{
-          "name": "陳明文",
-          "party": "民進黨"
+          "name": "",
+          "party": ""
         }
       ]
     },{ 
@@ -248,17 +248,17 @@
           "name": "",
           "party": ""
         },{
-          "name": "陳亭妃",
-          "party": "民進黨"
+          "name": "",
+          "party": ""
         },{
           "name": "",
           "party": ""
         },{
-          "name": "林俊憲",
-          "party": "民進黨"
+          "name": "",
+          "party": ""
         },{
-          "name": "王定宇",
-          "party": "民進黨"
+          "name": "",
+          "party": ""
         }
       ]
     },{
@@ -313,8 +313,8 @@
       "country": "花蓮縣",
       "elected": [
         {
-          "name": "蕭美琴",
-          "party": "民進黨"
+          "name": "",
+          "party": ""
         }
       ]
     },{
@@ -337,8 +337,8 @@
       "country": "連江縣",
       "elected": [
         {
-          "name": "陳雪生",
-          "party": "國民黨"
+          "name": "",
+          "party": ""
         }
       ]
     },{
@@ -373,68 +373,68 @@
       "country": "不分區",
       "elected": [
         {
-          "name": "吳玉琴",
-          "party": "民進黨"
+          "name": "",
+          "party": ""
         },{
-          "name": "洪申翰",
-          "party": "民進黨"
+          "name": "",
+          "party": ""
         },{
-          "name": "曾銘宗",
-          "party": "國民黨"
+          "name": "",
+          "party": ""
         },{
-          "name": "葉毓蘭",
-          "party": "國民黨"
+          "name": "",
+          "party": ""
         },{
-          "name": "李貴敏",
-          "party": "國民黨"
+          "name": "",
+          "party": ""
         },{
-          "name": "范雲",
-          "party": "民進黨"
+          "name": "",
+          "party": ""
         },{
-          "name": "賴香伶",
-          "party": "台灣民眾黨"
+          "name": "",
+          "party": ""
         },{
-          "name": "羅美玲",
-          "party": "民進黨"
+          "name": "",
+          "party": ""
         },{
-          "name": "邱泰源",
-          "party": "民進黨"
+          "name": "",
+          "party": ""
         },{
-          "name": "周春米",
-          "party": "民進黨"
+          "name": "",
+          "party": ""
         },{
-          "name": "游錫堃",
-          "party": "民進黨"
+          "name": "",
+          "party": ""
         },{
-          "name": "柯建銘",
-          "party": "民進黨"
+          "name": "",
+          "party": ""
         },{
-          "name": "管碧玲",
-          "party": "民進黨"
+          "name": "",
+          "party": ""
         },{
-          "name": "滕西華",
-          "party": "親民黨"
+          "name": "",
+          "party": ""
         },{
-          "name": "李鴻鈞",
-          "party": "親民黨"
+          "name": "",
+          "party": ""
         },{
-          "name": "張其祿",
-          "party": "台灣民眾黨"
+          "name": "",
+          "party": ""
         },{
-          "name": "吳斯懷",
-          "party": "國民黨"
+          "name": "",
+          "party": ""
         },{
-          "name": "鄭麗文",
-          "party": "國民黨"
+          "name": "",
+          "party": ""
         },{
-          "name": "莊瑞雄",
-          "party": "民進黨"
+          "name": "",
+          "party": ""
         },{
-          "name": "林文瑞",
-          "party": "國民黨"
+          "name": "",
+          "party": ""
         },{
-          "name": "李鴻鈞",
-          "party": "親民黨"
+          "name": "",
+          "party": ""
         },{
           "name": "",
           "party": ""
