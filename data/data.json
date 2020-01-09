@@ -2,13 +2,13 @@
   "candidates": [
     {
       "name": "宋楚瑜",
-      "votes": 0
+      "votes": 12566
     },{
       "name": "韓國瑜",
-      "votes": 0
+      "votes": 2576800
     },{
       "name": "蔡英文",
-      "votes": 0
+      "votes": 2563421
     }
   ],
   "legislators": [
@@ -57,8 +57,8 @@
           "name": "",
           "party": ""
         },{
-          "name": "",
-          "party": ""
+          "name": "蘇巧慧",
+          "party": "民進黨"
         },{
           "name": "",
           "party": ""
@@ -105,8 +105,8 @@
           "name": "",
           "party": ""
         },{
-          "name": "",
-          "party": ""
+          "name": "吳志揚",
+          "party": "國民黨"
         },{
           "name": "",
           "party": ""
@@ -257,8 +257,8 @@
           "name": "",
           "party": ""
         },{
-          "name": "",
-          "party": ""
+          "name": "王定宇",
+          "party": "民進黨"
         }
       ]
     },{
@@ -337,8 +337,8 @@
       "country": "連江縣",
       "elected": [
         {
-          "name": "",
-          "party": ""
+          "name": "陳雪生",
+          "party": "國民黨"
         }
       ]
     },{
@@ -373,14 +373,14 @@
       "country": "不分區",
       "elected": [
         {
-          "name": "",
-          "party": ""
+          "name": "吳玉琴",
+          "party": "民進黨"
         },{
-          "name": "",
-          "party": ""
+          "name": "洪申翰",
+          "party": "民進黨"
         },{
-          "name": "",
-          "party": ""
+          "name": "曾銘宗",
+          "party": "國民黨"
         },{
           "name": "",
           "party": ""
