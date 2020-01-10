@@ -485,6 +485,18 @@
       "title": "互動頁面：2020台灣大選．亡國感的戰爭"
     },{
       "type": "article",
+      "slug": "20191210-taiwan-election-2020",
+      "title": "亡國感的前世今生：在台灣，兩種「國」的故事"
+    },{
+      "type": "article",
+      "slug": "20200110-taiwan-election-legislator",
+      "title": "這三組地方選區立委，在爭論「總統級」的兩岸統獨話題"
+    },{
+      "type": "article",
+      "slug": "20200107-taiwan-election-matsu-kinmen",
+      "title": "大選前夕，被戰爭凝固的島嶼"
+    },{
+      "type": "article",
       "slug": "20191205-taiwan-election-keywords",
       "title": "台灣大選的十個關鍵字（上）宮廟、農會、地下電台、賄選、地下賭盤"
     },{
@@ -501,8 +513,20 @@
       "title": "神明不投票：「宮廟影響選舉」的可能與不可能"
     },{
       "type": "article",
+      "slug": "20200110-taiwan-election-traffic",
+      "title": "台灣選前通車小史：「浦島太郎」高鐵與「灑滿金仔粉」的台北捷運"
+    },{
+      "type": "article",
+      "slug": "20200109-taiwan-president-election-soong",
+      "title": "宋楚瑜：最後的藍血貴族，終將歸何處？"
+    },{
+      "type": "article",
       "slug": "20191231-taiwan-han-2018data",
       "title": "數據解讀韓國瑜支持者：不老不窮，理性而放空"
+    },{
+      "type": "article",
+      "slug": "20200107-taiwan-election-party",
+      "title": "民意如何代表：政黨票、不分區立委，它們是什麼？"
     }
   ]
 }
