@@ -2,13 +2,13 @@
   "candidates": [
     {
       "name": "宋楚瑜",
-      "votes": 80933
+      "votes": 133717
     },{
       "name": "韓國瑜",
-      "votes": 807234
+      "votes": 1186855
     },{
       "name": "蔡英文",
-      "votes": 1303979
+      "votes": 1745301
     }
   ],
   "legislators": [
@@ -329,16 +329,16 @@
       "country": "金門縣",
       "elected": [
         {
-          "name": "",
-          "party": ""
+          "name": "陳玉珍",
+          "party": "國民黨"
         }
       ]
     },{
       "country": "連江縣",
       "elected": [
         {
-          "name": "",
-          "party": ""
+          "name": "陳雪生",
+          "party": "國民黨"
         }
       ]
     },{
