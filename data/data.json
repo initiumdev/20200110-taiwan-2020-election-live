@@ -2,13 +2,13 @@
   "candidates": [
     {
       "name": "宋楚瑜",
-      "votes": 456713
+      "votes": 520247
     },{
       "name": "韓國瑜",
-      "votes": 4220928
+      "votes": 4830223
     },{
       "name": "蔡英文",
-      "votes": 6350901
+      "votes": 7230623
     }
   ],
   "legislators": [
@@ -22,14 +22,14 @@
           "name": "何志偉",
           "party": "民進黨"
         },{
-          "name": "林昶佐",
-          "party": "無黨籍"
+          "name": "蔣萬安",
+          "party": "國民黨"
         },{
           "name": "高嘉瑜",
           "party": "民進黨"
         },{
-          "name": "",
-          "party": ""
+          "name": "林昶佐",
+          "party": "無黨籍"
         },{
           "name": "林奕華",
           "party": "國民黨"
@@ -37,8 +37,8 @@
           "name": "",
           "party": ""
         },{
-          "name": "",
-          "party": ""
+          "name": "賴品妤",
+          "party": "民進黨"
         }
       ]
     },{
@@ -128,8 +128,8 @@
           "name": "林為洲",
           "party": "國民黨"
         },{
-          "name": "",
-          "party": ""
+          "name": "林思銘",
+          "party": "國民黨"
         }
       ]
     },{
@@ -234,8 +234,8 @@
       "country": "嘉義市",
       "elected": [
         {
-          "name": "",
-          "party": ""
+          "name": "王美惠",
+          "party": "民進黨"
         }
       ]
     },{
@@ -345,11 +345,11 @@
       "country": "山地原住民",
       "elected": [
         {
-          "name": "",
-          "party": ""
+          "name": "高金素梅",
+          "party": "無黨籍"
         },{
-          "name": "",
-          "party": ""
+          "name": "伍麗華Saidhai．Tahovecahe",
+          "party": "民進黨"
         },{
           "name": "",
           "party": ""
