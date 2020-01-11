@@ -2,13 +2,13 @@
   "candidates": [
     {
       "name": "宋楚瑜",
-      "votes": 417155
+      "votes": 456713
     },{
       "name": "韓國瑜",
-      "votes": 3716074
+      "votes": 4220928
     },{
       "name": "蔡英文",
-      "votes": 5388301
+      "votes": 6350901
     }
   ],
   "legislators": [
@@ -54,8 +54,8 @@
           "name": "余天",
           "party": "民進黨"
         },{
-          "name": "",
-          "party": ""
+          "name": "吳秉叡",
+          "party": "民進黨"
         },{
           "name": "蘇巧慧",
           "party": "民進黨"
@@ -63,8 +63,8 @@
           "name": "張宏陸",
           "party": "民進黨"
         },{
-          "name": "",
-          "party": ""
+          "name": "羅致政",
+          "party": "民進黨"
         },{
           "name": "",
           "party": ""
@@ -108,8 +108,8 @@
           "name": "黃世杰",
           "party": "民進黨"
         },{
-          "name": "",
-          "party": ""
+          "name": "魯明哲",
+          "party": "國民黨"
         },{
           "name": "",
           "party": ""
@@ -136,8 +136,8 @@
       "country": "新竹市",
       "elected": [
         {
-          "name": "",
-          "party": ""
+          "name": "鄭正鈐",
+          "party": "國民黨"
         }
       ]
     },{
@@ -161,14 +161,14 @@
           "name": "陳柏惟",
           "party": "台灣基進"
         },{
-          "name": "",
-          "party": ""
+          "name": "楊瓊瓔",
+          "party": "國民黨"
         },{
           "name": "張廖萬堅",
           "party": "民進黨"
         },{
-          "name": "",
-          "party": ""
+          "name": "莊競程",
+          "party": "民進黨"
         },{
           "name": "黃國書",
           "party": "民進黨"
@@ -184,8 +184,8 @@
       "country": "南投縣",
       "elected": [
         {
-          "name": "",
-          "party": ""
+          "name": "馬文君",
+          "party": "國民黨"
         },{
           "name": "許淑華",
           "party": "國民黨"
