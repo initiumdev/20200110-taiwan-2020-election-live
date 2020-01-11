@@ -2,13 +2,13 @@
   "candidates": [
     {
       "name": "宋楚瑜",
-      "votes": 567700
+      "votes": 592332
     },{
       "name": "韓國瑜",
-      "votes": 5170195
+      "votes": 5378975
     },{
       "name": "蔡英文",
-      "votes": 7701820
+      "votes": 7993006
     }
   ],
   "legislators": [
@@ -48,8 +48,8 @@
           "name": "",
           "party": ""
         },{
-          "name": "",
-          "party": ""
+          "name": "林淑芬",
+          "party": "民進黨"
         },{
           "name": "余天",
           "party": "民進黨"
