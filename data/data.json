@@ -2,13 +2,13 @@
   "candidates": [
     {
       "name": "宋楚瑜",
-      "votes": 302724
+      "votes": 342990
     },{
       "name": "韓國瑜",
-      "votes": 2691176
+      "votes": 3053531
     },{
       "name": "蔡英文",
-      "votes": 3872730
+      "votes": 4406021
     }
   ],
   "legislators": [
@@ -51,8 +51,8 @@
           "name": "",
           "party": ""
         },{
-          "name": "",
-          "party": ""
+          "name": "余天",
+          "party": "民進黨"
         },{
           "name": "",
           "party": ""
@@ -60,8 +60,8 @@
           "name": "",
           "party": ""
         },{
-          "name": "",
-          "party": ""
+          "name": "張宏陸",
+          "party": "民進黨"
         },{
           "name": "",
           "party": ""
@@ -69,8 +69,8 @@
           "name": "",
           "party": ""
         },{
-          "name": "",
-          "party": ""
+          "name": "林德福",
+          "party": "國民黨"
         },{
           "name": "吳琪銘",
           "party": "民進黨"
@@ -94,8 +94,8 @@
       "country": "宜蘭縣",
       "elected": [
         {
-          "name": "",
-          "party": ""
+          "name": "陳歐珀",
+          "party": "民進黨"
         }
       ]
     },{
@@ -158,14 +158,14 @@
           "name": "蔡其昌",
           "party": "民進黨"
         },{
-          "name": "",
-          "party": ""
+          "name": "陳柏惟",
+          "party": "台灣基進"
         },{
           "name": "",
           "party": ""
         },{
-          "name": "",
-          "party": ""
+          "name": "張廖萬堅",
+          "party": "民進黨"
         },{
           "name": "",
           "party": ""
@@ -173,8 +173,8 @@
           "name": "黃國書",
           "party": "民進黨"
         },{
-          "name": "",
-          "party": ""
+          "name": "何欣純",
+          "party": "民進黨"
         },{
           "name": "江啟臣",
           "party": "國民黨"
@@ -187,8 +187,8 @@
           "name": "",
           "party": ""
         },{
-          "name": "",
-          "party": ""
+          "name": "許淑華",
+          "party": "國民黨"
         }
       ]
     },{
@@ -215,8 +215,8 @@
           "name": "蘇治芬",
           "party": "民進黨"
         },{
-          "name": "",
-          "party": ""
+          "name": "劉建國",
+          "party": "民進黨"
         }
       ]
     },{
@@ -254,8 +254,8 @@
           "name": "林宜瑾",
           "party": "民進黨"
         },{
-          "name": "",
-          "party": ""
+          "name": "林俊憲",
+          "party": "民進黨"
         },{
           "name": "王定宇",
           "party": "民進黨"
@@ -286,8 +286,8 @@
           "name": "",
           "party": ""
         },{
-          "name": "",
-          "party": ""
+          "name": "賴瑞隆",
+          "party": "民進黨"
         }
       ]
     },{
@@ -313,8 +313,8 @@
       "country": "花蓮縣",
       "elected": [
         {
-          "name": "",
-          "party": ""
+          "name": "傅崐萁",
+          "party": "無黨籍"
         }
       ]
     },{
