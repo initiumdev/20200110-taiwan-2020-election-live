@@ -2,13 +2,13 @@
   "candidates": [
     {
       "name": "宋楚瑜",
-      "votes": 206538
+      "votes": 270906
     },{
       "name": "韓國瑜",
-      "votes": 1822633
+      "votes": 2315412
     },{
       "name": "蔡英文",
-      "votes": 2664349
+      "votes": 3342901
     }
   ],
   "legislators": [
@@ -144,11 +144,11 @@
       "country": "苗栗縣",
       "elected": [
         {
-          "name": "",
-          "party": ""
+          "name": "陳超明",
+          "party": "國民黨"
         },{
-          "name": "",
-          "party": ""
+          "name": "徐志榮",
+          "party": "國民黨"
         }
       ]
     },{
@@ -204,16 +204,16 @@
           "name": "",
           "party": ""
         },{
-          "name": "",
-          "party": ""
+          "name": "陳素月",
+          "party": "民進黨"
         }
       ]
     },{
       "country": "雲林縣",
       "elected": [
         {
-          "name": "",
-          "party": ""
+          "name": "蘇治芬",
+          "party": "民進黨"
         },{
           "name": "",
           "party": ""
@@ -245,28 +245,31 @@
           "name": "",
           "party": ""
         },{
-          "name": "",
-          "party": ""
+          "name": "郭國文",
+          "party": "民進黨"
+        },{
+          "name": "陳亭妃",
+          "party": "民進黨"
+        },{
+          "name": "林宜瑾",
+          "party": "民進黨"
         },{
           "name": "",
           "party": ""
         },{
-          "name": "",
-          "party": ""
-        },{
-          "name": "",
-          "party": ""
-        },{
-          "name": "",
-          "party": ""
+          "name": "王定宇",
+          "party": "民進黨"
         }
       ]
     },{
       "country": "高雄市",
       "elected": [
         {
-          "name": "",
-          "party": ""
+          "name": "邱議瑩",
+          "party": "民進黨"
+        },{
+          "name": "邱志偉",
+          "party": "民進黨"
         },{
           "name": "",
           "party": ""
@@ -277,11 +280,8 @@
           "name": "",
           "party": ""
         },{
-          "name": "",
-          "party": ""
-        },{
-          "name": "",
-          "party": ""
+          "name": "趙天麟",
+          "party": "民進黨"
         },{
           "name": "",
           "party": ""
