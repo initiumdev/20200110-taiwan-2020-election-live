@@ -2,13 +2,13 @@
   "candidates": [
     {
       "name": "宋楚瑜",
-      "votes": 270906
+      "votes": 302724
     },{
       "name": "韓國瑜",
-      "votes": 2315412
+      "votes": 2691176
     },{
       "name": "蔡英文",
-      "votes": 3342901
+      "votes": 3872730
     }
   ],
   "legislators": [
@@ -31,8 +31,8 @@
           "name": "",
           "party": ""
         },{
-          "name": "",
-          "party": ""
+          "name": "林奕華",
+          "party": "國民黨"
         },{
           "name": "",
           "party": ""
@@ -72,8 +72,8 @@
           "name": "",
           "party": ""
         },{
-          "name": "",
-          "party": ""
+          "name": "吳琪銘",
+          "party": "民進黨"
         },{
           "name": "",
           "party": ""
@@ -117,8 +117,8 @@
           "name": "",
           "party": ""
         },{
-          "name": "",
-          "party": ""
+          "name": "趙正宇",
+          "party": "無黨籍"
         }
       ]
     },{
@@ -170,14 +170,14 @@
           "name": "",
           "party": ""
         },{
-          "name": "",
-          "party": ""
+          "name": "黃國書",
+          "party": "民進黨"
         },{
           "name": "",
           "party": ""
         },{
-          "name": "",
-          "party": ""
+          "name": "江啟臣",
+          "party": "國民黨"
         }
       ]
     },{
@@ -201,8 +201,8 @@
           "name": "",
           "party": ""
         },{
-          "name": "",
-          "party": ""
+          "name": "謝衣鳯",
+          "party": "國民黨"
         },{
           "name": "陳素月",
           "party": "民進黨"
@@ -223,8 +223,8 @@
       "country": "嘉義縣",
       "elected": [
         {
-          "name": "",
-          "party": ""
+          "name": "蔡易餘",
+          "party": "民進黨"
         },{
           "name": "",
           "party": ""
@@ -242,8 +242,8 @@
       "country": "台南市",
       "elected": [
         {
-          "name": "",
-          "party": ""
+          "name": "賴惠員",
+          "party": "民進黨"
         },{
           "name": "郭國文",
           "party": "民進黨"
@@ -274,8 +274,8 @@
           "name": "",
           "party": ""
         },{
-          "name": "",
-          "party": ""
+          "name": "林岱樺",
+          "party": "民進黨"
         },{
           "name": "",
           "party": ""
@@ -321,8 +321,8 @@
       "country": "台東縣",
       "elected": [
         {
-          "name": "",
-          "party": ""
+          "name": "劉櫂豪",
+          "party": "民進黨"
         }
       ]
     },{
