@@ -121,12 +121,13 @@ ga('send', 'pageview');</script></head><body><div id="wrapper"><nav id="nav"><di
 			TweenLite.to(this.$data, 1, { totalVotedTween: val });
 		}
 	},
-	created(){					
+	created(){	
 	},
 	mounted(){
 		setInterval(()=>{
 			this.fetchData()
 		}, 600000)
+		this.fetchData()
 		this.fetchSeats()
 	}
 })</script></body></html>
