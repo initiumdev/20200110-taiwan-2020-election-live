@@ -2,13 +2,13 @@
   "candidates": [
     {
       "name": "宋楚瑜",
-      "votes": 140704
+      "votes": 206538
     },{
       "name": "韓國瑜",
-      "votes": 1244954
+      "votes": 1822633
     },{
       "name": "蔡英文",
-      "votes": 1831575
+      "votes": 2664349
     }
   ],
   "legislators": [
@@ -19,8 +19,8 @@
           "name": "",
           "party": ""
         },{
-          "name": "",
-          "party": ""
+          "name": "何志偉",
+          "party": "民進黨"
         },{
           "name": "",
           "party": ""
@@ -155,8 +155,8 @@
       "country": "台中市",
       "elected": [
         {
-          "name": "",
-          "party": ""
+          "name": "蔡其昌",
+          "party": "民進黨"
         },{
           "name": "",
           "party": ""
@@ -305,8 +305,8 @@
       "country": "澎湖縣",
       "elected": [
         {
-          "name": "",
-          "party": ""
+          "name": "楊曜",
+          "party": "民進黨"
         }
       ]
     },{
