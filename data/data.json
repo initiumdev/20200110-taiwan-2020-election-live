@@ -2,13 +2,13 @@
   "candidates": [
     {
       "name": "宋楚瑜",
-      "votes": 342990
+      "votes": 382113
     },{
       "name": "韓國瑜",
-      "votes": 3053531
+      "votes": 3401191
     },{
       "name": "蔡英文",
-      "votes": 4406021
+      "votes": 4917453
     }
   ],
   "legislators": [
@@ -16,14 +16,14 @@
       "country": "台北市",
       "elected": [
         {
-          "name": "",
-          "party": ""
+          "name": "吳思瑤",
+          "party": "民進黨"
         },{
           "name": "何志偉",
           "party": "民進黨"
         },{
-          "name": "",
-          "party": ""
+          "name": "林昶佐",
+          "party": "無黨籍"
         },{
           "name": "",
           "party": ""
@@ -57,8 +57,8 @@
           "name": "",
           "party": ""
         },{
-          "name": "",
-          "party": ""
+          "name": "蘇巧慧",
+          "party": "民進黨"
         },{
           "name": "張宏陸",
           "party": "民進黨"
@@ -86,8 +86,8 @@
       "country": "基隆市",
       "elected": [
         {
-          "name": "",
-          "party": ""
+          "name": "蔡適應",
+          "party": "民進黨"
         }
       ]
     },{
@@ -102,8 +102,8 @@
       "country": "桃園市",
       "elected": [
         {
-          "name": "",
-          "party": ""
+          "name": "鄭運鵬",
+          "party": "民進黨"
         },{
           "name": "",
           "party": ""
@@ -226,8 +226,8 @@
           "name": "蔡易餘",
           "party": "民進黨"
         },{
-          "name": "",
-          "party": ""
+          "name": "陳明文",
+          "party": "民進黨"
         }
       ]
     },{ 
@@ -271,14 +271,14 @@
           "name": "邱志偉",
           "party": "民進黨"
         },{
-          "name": "",
-          "party": ""
+          "name": "劉世芳",
+          "party": "民進黨"
         },{
           "name": "林岱樺",
           "party": "民進黨"
         },{
-          "name": "",
-          "party": ""
+          "name": "李昆澤",
+          "party": "民進黨"
         },{
           "name": "趙天麟",
           "party": "民進黨"
@@ -297,8 +297,8 @@
           "name": "",
           "party": ""
         },{
-          "name": "",
-          "party": ""
+          "name": "蘇震清",
+          "party": "無黨籍"
         }
       ]
     },{
